@@ -1,0 +1,10 @@
+* hl7-client
+
+Common Lisp HL7 Client Library
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/MartinEnders/hl7-client.git   |
+| commit  | e19ff71  |
+| systems | hl7-client |
+|---------+-------------------------------------------|
+
